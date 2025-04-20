@@ -17,3 +17,14 @@ Este repositório contém testes e pequenos projetos desenvolvidos com foco em *
 ## 🎓 Objetivo
 
 Explorar e aplicar conceitos de estruturas de dados de forma simples e prática, com exemplos que um programador iniciante ou estagiário provavelmente usaria no dia a dia. O foco é entender na prática o **como** e o **porquê** de cada algoritmo.
+
+
+## Contexto do Seminário
+
+Este trabalho foi desenvolvido para a disciplina de Estrutura de Dados 2, ministrada pelo professor Tiago Lima na IFPE.
+
+Autores
+
+    [Gustavson BArros] - [20241ADS-PM0305] - [gmb6@discente.ifpe.edu.br]
+
+  
