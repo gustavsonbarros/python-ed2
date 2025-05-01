@@ -48,5 +48,5 @@ Este trabalho foi desenvolvido para a disciplina de Estrutura de Dados 2, minist
 Autores
 
     [Gustavson BArros] - [20241ADS-PM0305] - [gmb6@discente.ifpe.edu.br]
-
+    [Marcos Moraes] - [20231ADS-PM0406] - [mvvm@discente.ifpe.edu.br]
   
