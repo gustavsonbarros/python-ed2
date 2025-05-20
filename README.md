@@ -18,7 +18,7 @@ Este repositório contém testes e pequenos projetos desenvolvidos com foco em *
 
 Explorar e aplicar conceitos de estruturas de dados de forma simples e prática, com exemplos que um programador iniciante ou estagiário provavelmente usaria no dia a dia. O foco é entender na prática o **como** e o **porquê** de cada algoritmo.
 
-
+## Link do Material
 https://colab.research.google.com/drive/15JBW4iCf5Ud-oNDyqLgx2TZ9TX9JnCn_#scrollTo=m4VOpbtz180n
 
 ## Contexto do Seminário
